@@ -1,0 +1,109 @@
+header{
+    height: 35vh;
+ background-image: url(kamper5.jpg);
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+body{
+    margin: 0px;
+    background-color: rgb(108, 108, 108);
+}
+li{
+    list-style: none;
+}
+.a{
+    color:#ffffff ;
+    text-decoration: none;
+    font-size: larger;
+    padding: 10px;
+    background-color: gray;
+    border: 2px solid black;
+    
+    
+    
+}
+nav{
+        background-color: rgb(92, 92, 92);
+        padding: 20px;
+        display: flex;
+        justify-content: space-around;
+        
+}
+a:hover{
+    background-color: #ffffff;
+    color: black;
+}
+.naglowek{
+    color: white;
+    font-size:xx-large;
+}
+main{
+    display: flex;
+    padding: 50px;
+}
+.kamper1{
+    height: 30%;
+   
+}
+section{
+    
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(33, 33, 33);
+    line-height: 23px;
+    justify-content: center;
+    padding: 25px;
+}
+div{
+   
+    
+}
+footer{
+    background-color: gray;
+    height: 35px;
+    padding: 7px;
+    text-align: right;
+    
+}
+h3{
+    color: rgb(207, 203, 203);
+}
+.bi{
+    font-size: 35px;
+    
+}
+.poziom{
+    display: inline;
+}
+hr{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: gray;
+   
+}
+.sekcja{
+    height: 2000px;
+}
+figcaption{
+    color: rgb(167, 167, 167);
+}
+.imag{
+    width: 40%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+input{
+    width: 40%;
+}
+
+.ull{
+    display: flex;
+    justify-content: space-between;
+}
